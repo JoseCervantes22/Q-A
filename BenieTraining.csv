@@ -1,4 +1,4 @@
-﻿Department,Questions,Answers,url
+﻿Department,Question,Answer,url
 Workers Comp ,What is workers’ compensation?,"Workers' compensation provides benefits to employees who are injured or become ill during the course of or due to employment. You could get hurt by:
 • One event at work, such as hurting your back in a fall, getting burned by a chemical that splashes on your skin or getting hurt in a car accident while making deliveries.
 • Repeated exposures at work, such as hurting your wrist from doing the same motion over and over or losing your hearing because of constant loud noise.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/workers-compensation/
@@ -550,8 +550,8 @@ Life,I am an eligible employee and wish to purchase more life insurance.,"If you
 Life,I am eligible how do I know if I am enrolled into the state life insurance program and how do I know how much my benefit amount is.,"Please contact your department personnel office who can assist you with your questions. You can also visit www.metlife.com/soc for coverage amount. To confirm your enrollment, you can also verify your pay warrant and under employee contribution look for LIFE 00.",https://calhr.benefitsprograms.info/state-employee/insurance/basic-group-term-life-insurance/
 Life,"Help, my Spouse/Family member passed away, what do I need to do.","First, I am sorry for your loss, please contact your spouse or family member personnel department, if you do not have your spouse or family member agency contact, you can visit www.sco.ca.gov California personnel office directory and locate the public number. If your spouse or family member was an eligible employee, you can contact MetLife at 1-800-252-8524 and they will assist you as well as their personnel office.",https://calhr.benefitsprograms.info/state-employee/insurance/basic-group-term-life-insurance/
 Legal,"I am new to the state, and I want to enroll into Group Legal Insurance, but not sure if I am eligible?","Group legal is available to most state employees, if you are not sure if you are eligible to enroll, please contact your department personnel office, who will be best to assist you.",https://calhr.benefitsprograms.info/state-employee/insurance/group-legal-services/
-,,,https://calhr.benefitsprograms.info/state-employee/general-benefits/dental/
-Dental,Dental benefits,"You and your dependents may be eligible for state-sponsored dental insurance, available from one of several dental plans. Eligible employees may enroll in a dental plan within the first 60 days of employment. Eligible employees may also enroll or make changes to their dental plan during the annual Open Enrollment period.
+Dental,Dental benefits,"Dental benefits
+You and your dependents may be eligible for state-sponsored dental insurance, available from one of several dental plans. Eligible employees may enroll in a dental plan within the first 60 days of employment. Eligible employees may also enroll or make changes to their dental plan during the annual Open Enrollment period.
 
 Your collective bargaining designation determines which plans are available to you. The state pays all or part of your premium, depending on the plan you select and the number of dependents you wish to cover",https://calhr.benefitsprograms.info/state-employee/general-benefits/dental/
 Dental,2023 Dental and Vision Plan Deduction Codes and Premiums,"The following tables show premiums effective January 1, 2023. For employees in CoBen, the state share and employee share does not apply. Therefore, the total dental premium will be deducted from the monthly CoBen allowance",https://calhr.benefitsprograms.info/wp-content/uploads/2023/01/2023-Dental-and-Vision-Plan-Deduction-Codes-and-Premiums.pdf
@@ -569,7 +569,8 @@ dependents. CalHR is also responsible for communicating policies and procedures 
 eligibility and enrollment, coordinating dental Open Enrollment periods, and providing information,
 guidance and training to departmental personnel offices on issues relating to the state’s dental
 program.",https://calhr.benefitsprograms.info/wp-content/uploads/2023/01/Final-2023-dental-handbook-active.pdf
-Dental,2024 Dental and Vision Plan Deduction Codes and Premiums,"The following tables show premiums effective January 1, 2024. For employees in
+Dental,2024 Dental and Vision Plan Deduction Codes and Premiums,"Dental Rates
+The following tables show premiums effective January 1, 2024. For employees in
 CoBen, the state share and employee share do not apply and the total dental premium
 will be deducted from the monthly CoBen allowance.",https://calhr.benefitsprograms.info/wp-content/uploads/2023/08/FINAL_2024-Dental-and-Vision-Plan-Deduction-Codes-and-Premiums-2.pdf
 Dental,2024 Dental Benefits Handbook for Active Employees,"The California Department of Human Resources (CalHR) prepared this dental benefits handbook to provide general information regarding state-sponsored dental coverage for State of California employees and their eligible dependents.
@@ -579,17 +580,19 @@ CalHR
 The CalHR Benefits Division administers the state’s dental program. CalHR secures and administers contracts with dental carriers to provide benefits to active state employees, retirees, and their dependents. CalHR is also responsible for communicating policies and procedures regarding dental
 eligibility and enrollment, coordinating dental Open Enrollment periods, and providing information, guidance, and training to departmental personnel offices on issues relating to the state’s dental program.
 ",https://calhr.benefitsprograms.info/wp-content/uploads/2023/08/FINAL_2024-Dental-Active-Handbook.pdf
-Dental,Dental Plan Options,"There are three types of plans available:
+Dental,Dental Plan Options,"Dental Plan Options
+There are three types of plans available:
 
 Prepaid Plans
 Indemnity Option
 Preferred Provider Option",https://calhr.benefitsprograms.info/state-employee/general-benefits/dental/
-Vision ,Vision Benefits,"Vision
+Vision ,Vision Benefits,"Vision Benefits
 If you’re a permanent state employee working half-time or more, you’re eligible for the state’s Vision Program. You may receive an eye examination, lenses, and a frame once every calendar year. The state offers two vision plans. The Basic Vision Plan will be provided at no cost to you or, you can upgrade to the Premier Vision Plan for a small monthly cost.
 
 For more information or if you have changes to your current plans, please contact your department’s personnel office.",https://calhr.benefitsprograms.info/state-employee/general-benefits/vision/
 Vision ,2023 Dental and Vision Plan Deduction Codes and Premiums,"The following tables show premiums effective January 1, 2023. For employees in CoBen, the state share and employee share does not apply. Therefore, the total dental premium will be deducted from the monthly CoBen allowance.",https://calhr.benefitsprograms.info/wp-content/uploads/2023/01/2023-Dental-and-Vision-Plan-Deduction-Codes-and-Premiums.pdf
-Vision ,2024 Dental and Vision Plan Deduction Codes and Premiums,"The following tables show premiums effective January 1, 2024. For employees in CoBen, the state share and employee share do not apply and the total dental premium will be deducted from the monthly CoBen allowance.",https://calhr.benefitsprograms.info/wp-content/uploads/2023/08/FINAL_2024-Dental-and-Vision-Plan-Deduction-Codes-and-Premiums-1.pdf
+Vision ,2024 Dental and Vision Plan Deduction Codes and Premiums,"Dental Rates Vision Rates
+The following tables show premiums effective January 1, 2024. For employees in CoBen, the state share and employee share do not apply and the total dental premium will be deducted from the monthly CoBen allowance.",https://calhr.benefitsprograms.info/wp-content/uploads/2023/08/FINAL_2024-Dental-and-Vision-Plan-Deduction-Codes-and-Premiums-1.pdf
 Vision ,2024 Vision Member Benefit Summary – Active Employees,The State of California and VSP provide you with an affordable vision plan. Stay with the Basic Plan or upgrade to the Premier Plan for enhanced benefits. Dependents must be enrolled in the same plan as the enrollee.,https://calhr.benefitsprograms.info/wp-content/uploads/2023/08/Final_2024-Vision-Member-Benefit-Summary-Active-Employees.pdf
 Vision ,2024 Vision Member Benefit Summary – COBRA,The State of California and VSP provide you with an affordable vision plan. Stay with the Basic Plan or upgrade to the Premier Plan for enhanced benefits. Dependents must be enrolled in the same plan as the enrollee.,https://calhr.benefitsprograms.info/wp-content/uploads/2023/08/Final_2024-Vision-Member-Benefit-Summary-COBRA.pdf
 Cobra,Consolidated Omnibus Budget Reconciliation Act (COBRA),"The Consolidated Omnibus Budget Reconciliation Act (COBRA) gives workers and their families who lose their health benefits the right to choose to continue group health benefits provided by their group health plan for limited periods of time under certain circumstances such as voluntary or involuntary job loss, reduction in the hours worked, transition between jobs, death, divorce, and other life events. Qualified beneficiaries may be required to pay the entire premium for coverage up to 102 percent of the cost of the plan.
@@ -628,16 +631,16 @@ Dependent Care Reimbursement Accounts – Set aside money to to pay for childcar
 When you enroll in a reimbursement account, you designate an amount to be deducted each month from your wages. That money is automatically deposited in your account for one plan year. After incurring health-related or dependent care expenses during that year, you submit a claim for reimbursement from your account. Your reimbursement check is mailed to you, or you can request direct deposit into your checking or savings account.
 
 Please read the 2022 FlexElect Handbook carefully before making a decision about enrolling in the program. This program offers several choices, and you will need to determine which options are right for you. Contact your department’s personnel office if you have any questions that are not answered on this page or in the plan handbook. You may also wish to seek the advice of a qualified tax consultant.",https://calhr.benefitsprograms.info/state-employee/general-benefits/flexelect-reimbursement-accounts/
-Consolidated Benefits (CoBen),Consolidated Benefits (CoBen),"Consolidated Benefits (CoBen) is a combined employer contribution towards your dental, vision, and health benefits. The benefit allowance is automatically established in the State Controller’s (SCO) payroll system. No enrollment form is required.
+,Consolidated Benefits (CoBen),"Consolidated Benefits (CoBen) is a combined employer contribution towards your dental, vision, and health benefits. The benefit allowance is automatically established in the State Controller’s (SCO) payroll system. No enrollment form is required.
 
 For more information on the program and eligibility please contact your department’s personnel office.",https://calhr.benefitsprograms.info/state-employee/general-benefits/consolidated-benefits-coben/
-CASH OPTION (CoBen),CASH OPTION (CoBen),"CASH OPTION (CoBen)
+CoBen,CASH OPTION (CoBen),"CASH OPTION (CoBen)
 If you have qualifying group health or health and dental coverage through another source, such as your spouse, you may opt to receive cash in lieu of both your state-sponsored health and dental coverage or for your state-sponsored health coverage only. Qualifying group health coverage includes health coverage that provides minimum value as established by the federal Patient Protection Affordable Care Act (ACA) and is maintained by an employer or employee organization. All state California Public Employees’ Retirement System (CalPERS) health plans currently meet the law’s minimum value standards.
 
 The ACA establishes a minimum value standard of benefits for a health plan. For a qualifying group health plan to meet the ACA’s minimum value standards, the plan must cover at least 60 percent of the total allowed costs of benefits provided under the plan. Employees may refer to their plan’s Summary of Benefits and Coverage document to determine if their coverage meets the law’s minimum value standards.
 
 Employees enrolled in individual coverage, such as TRICARE, Medicare, Medi-Cal, and Covered California, are not eligible to receive cash in lieu of other health coverage, even if the coverage provides minimum value.",https://calhr.benefitsprograms.info/state-employee/general-benefits/cash-option-coben/
-Benefits of the Cash Option,Benefits of the Cash Option,"Benefits of the Cash Option
+CoBen,Benefits of the Cash Option,"Benefits of the Cash Option
 These payments are considered taxable income and are as follows:
 
 $155 – if you decline both the state-sponsored health and dental plans
@@ -647,24 +650,24 @@ Note: You will not receive any CoBen Cash if you decline dental coverage only.
 CoBen cash payments are included with your regular paycheck and are subject to the same payroll taxes (federal, state, and Social Security) as your regular salary. However, CoBen Cash payments are not considered compensation for retirement purposes. This additional cash is reported on your W-2 statement in the same tax year you received the CoBen Cash payment. 
 
 For more information on the program and eligibility please contact your department’s personnel office",https://calhr.benefitsprograms.info/state-employee/general-benefits/cash-option-coben/
-Other Post-Employment Benefits (OPEB),Other Post-Employment Benefits (OPEB),"Other Post-Employment Benefits (OPEB)
+OPEB,Other Post-Employment Benefits (OPEB),"Other Post-Employment Benefits (OPEB)
 Through the collective bargaining process and under the authority of Government Code section 22940 – 22944.5, OPEB (Other Post-Employment Benefits) is the method by which the State of California, as the employer, and its employees jointly prefund health benefits that current active employees will receive as state retirees.
 
 All employees in positions that are eligible for health benefits, whether or not currently enrolled, prefund OPEB. The state prefunds a matching contribution. The OPEB Policy Statement provides the effective prefunding dates of the various employee groups.
 
 For more information on the program and eligibility please contact your department’s personnel office.",https://calhr.benefitsprograms.info/state-employee/general-benefits/other-post-employment-benefits-opeb/
-Basic Group Term Life Insurance for Excluded Employees,Basic Group Term Life Insurance for Excluded Employees,"Basic Group Term Life Insurance for Excluded Employees
+,Basic Group Term Life Insurance for Excluded Employees,"Basic Group Term Life Insurance for Excluded Employees
 An employer-paid Basic Group Term Life Insurance Plan is provided to active State employees who are designated managers, supervisors, confidential, and other specified excluded employees. Employees designated supervisory and confidential have $25,000 of basic insurance coverage and employees designated exempt and managerial have $50,000 coverage.
 
 Please contact California Department of Human Resources, Benefits Division – (916) 324-0533 for more information.",https://calhr.benefitsprograms.info/state-employee/insurance/basic-group-term-life-insurance/
-Basic Group Term Life Insurance for Excluded Employees,Basic Group Term Life Insurance for Excluded Employees,"Accelerated Benefit Option
+,Basic Group Term Life Insurance for Excluded Employees,"Accelerated Benefit Option
 An Accelerated Benefit Option is an important feature included in the basic and supplemental plans. If you are diagnosed as terminally ill with only a six month life expectancy, you may elect to receive up to seventy percent of the face value of the policy with a service charge of four percent of the amount paid. 
 
 Another plan feature is the assignment of insurance policy ownership. Both your basic as well as any supplemental life insurance purchased can be assigned by gift or to a viatical settlement provider for viatical purposes. 
 
 More Information
 Contact MetLife directly at 1-800-252-8524.",https://calhr.benefitsprograms.info/state-employee/insurance/basic-group-term-life-insurance/
-Basic Group Term Life Insurance for Excluded Employees,Basic Group Term Life Insurance for Excluded Employees,"Beneficiary Designation
+,Basic Group Term Life Insurance for Excluded Employees,"Beneficiary Designation
 CalPERS and departmental beneficiary designations do not apply to life insurance benefits payable under the Metropolitan Life Insurance (MetLife) program. Life insurance benefits will be paid according to the standard order of beneficiary as follows:
 
 to the surviving spouse/domestic partner, if none, then
@@ -674,14 +677,14 @@ to the estate
 Benefits will be paid equally among surviving children or surviving parents. Family status changes, such as divorce and remarriage are automatically adjusted provided you have not designated a beneficiary other than above. 
 
 If you wish to designate a beneficiary other than the standard order stated above, you must request a beneficiary form from MetLife at 1-800-252-8524. You must return the completed form to MetLife. Upon receipt of the completed form, MetLife will record and retain the original in your file. A signed copy will be returned to you for your records. This designation will not change with marriage, divorce, or any other family status changes. You must complete a new designation form if their family status change alters their desired beneficiaries.",https://calhr.benefitsprograms.info/state-employee/insurance/basic-group-term-life-insurance/
-Basic Group Term Life Insurance for Excluded Employees,Basic Group Term Life Insurance for Excluded Employees,"Conversion Privilege
+,Basic Group Term Life Insurance for Excluded Employees,"Conversion Privilege
 The basic and supplemental plan includes a Conversion Privilege. With this, you can:
 
 convert to an individual policy in the event they lose eligibility status,
 take a leave of absence, or
 separate from State service.
 This conversion will provide for coverage up to the face amount of the group policy.  When you retire, you can make arrangements with MetLife to have premiums deducted from your CalPERS check.  You must call MetLife at 1-800-252-8524 within 31 days of retiring.",https://calhr.benefitsprograms.info/state-employee/insurance/basic-group-term-life-insurance/
-Basic Group Term Life Insurance for Excluded Employees,Basic Group Term Life Insurance for Excluded Employees,"Enrollment
+,Basic Group Term Life Insurance for Excluded Employees,"Enrollment
 When you move into an eligible classification, enrollment in the State-paid basic life insurance is automatic. Once the deduction code is established, the carrier (MetLife) will mail a packet of information to you.
 
 Supplemental Life Insurance
@@ -689,7 +692,7 @@ You can apply for supplemental life insurance anytime by calling MetLife at 1-80
 
 Cancellation
 If you do not want this State-paid benefit, you must complete a Life Insurance Enrollment Authorization Form 698 to cancel the basic life insurance coverage.",https://calhr.benefitsprograms.info/state-employee/insurance/basic-group-term-life-insurance/
-Basic Group Term Life Insurance for Excluded Employees,Basic Group Term Life Insurance for Excluded Employees,"Reporting a Death
+,Basic Group Term Life Insurance for Excluded Employees,"Reporting a Death
 Department personnel offices are responsible for immediately reporting the death of a covered employee to MetLife Insurance Company at 1-800-252-8524. The person reporting the death must have the following information available: 
 
 Employee name
@@ -701,7 +704,7 @@ Marital or registered domestic partner status
 Cause of death (if known), name, address, and phone number of next of kin on file, along with the name, department, and phone number of the person reporting of death
 Claim number will always be Policy No. 74503
 Employees are responsible for reporting the death of a covered spouse, registered domestic partner, or dependent directly to MetLife.",https://calhr.benefitsprograms.info/state-employee/insurance/basic-group-term-life-insurance/
-Basic Group Term Life Insurance for Excluded Employees,Basic Group Term Life Insurance for Excluded Employees,"Supplemental Life Insurance
+,Basic Group Term Life Insurance for Excluded Employees,"Supplemental Life Insurance
 Having basic group term life insurance allows you the opportunity to take advantage of the state’s group purchasing power by securing significant amounts of voluntary supplemental life insurance at a competitive rate.  You may elect coverage amounts in $10,000 increments up to eight (8) times your basic annual earnings, not to exceed $750,000.
 
 Eligibility
@@ -788,11 +791,11 @@ Mail forms to:
 MetLife Recordkeeping Center
 P.O. Box 14402
 Lexington,  KY  40512-4402",https://calhr.benefitsprograms.info/state-employee/insurance/basic-group-term-life-insurance/
-Common Carrier Travel and Accident Insurance,Common Carrier Travel and Accident Insurance,"Common Carrier Travel and Accident Insurance
+,Common Carrier Travel and Accident Insurance,"Common Carrier Travel and Accident Insurance
 The State of California provides an employer-paid Common Carrier Travel and Accident Insurance for active State employees designated manager, supervisor, confidential, and other specified, excluded employees. This insurance policy covers eligible employee anywhere in the world while they are a passenger on a common carrier for business-related travel. Employees are automatically covered by this policy when they enter an eligible class and terminated from it when they leave an eligible class.",https://calhr.benefitsprograms.info/state-employee/insurance/common-carrier-travel-and-accident-insurance/
-Common Carrier Travel and Accident Insurance,Common Carrier Travel and Accident Insurance,"Enrollment
+,Common Carrier Travel and Accident Insurance,"Enrollment
 When an employee moves into an eligible classification, enrollment in the State-paid Common Carrier Travel and Accident Insurance is automatic.",https://calhr.benefitsprograms.info/state-employee/insurance/common-carrier-travel-and-accident-insurance/
-Common Carrier Travel and Accident Insurance,Common Carrier Travel and Accident Insurance,"Level of Coverage
+,Common Carrier Travel and Accident Insurance,"Level of Coverage
 For Loss of:  
 
 Life –  The Principal Sum
@@ -812,7 +815,7 @@ Speech or Hearing – One-Half the Principal Sum
 Sight of One Eye – One-Half the Principal Sum
 
 Thumb and Index Finger – One-Quarter the Principal Sum ",https://calhr.benefitsprograms.info/state-employee/insurance/common-carrier-travel-and-accident-insurance/
-Common Carrier Travel and Accident Insurance,Common Carrier Travel and Accident Insurance,"Beneficiary Designation
+,Common Carrier Travel and Accident Insurance,"Beneficiary Designation
 Benefits payable under this program are paid according to the standard order of beneficiary. The standard order of beneficiary is as follows:
 
 the beneficiary designated for the insured employee’s group life insurance coverage, otherwise:
@@ -824,7 +827,7 @@ the insured employee’s Executor or Administrator.
 Family status changes, such as divorce and remarriage are automatically adjusted, provided an employee has not designated a beneficiary other than above.
 
 Employees who have questions or wish to designate a beneficiary other than the standard order stated above should contact DGS at (916) 445-2162 or CalHR at (916) 324-0533.",https://calhr.benefitsprograms.info/state-employee/insurance/common-carrier-travel-and-accident-insurance/
-Group Legal Services,Group Legal Services,"Group Legal Services
+,Group Legal Services,"Group Legal Services
 The Group Legal Services Insurance Plan (Plan) is a voluntary insurance plan that is available to eligible state employees. It is an important part of the state’s benefits package because it connects you with network attorneys and other legal resources to help you resolve life’s legal issues. Eligible state employees can enroll online by visiting the ARAG legal site and selecting the “View Plans” and “Enroll Now” tabs to enroll.
 
 Contact Information
@@ -839,7 +842,7 @@ Toll-free (866) 762-0972
 TTY (800) 383-4184 (or 711 to reach a relay operator)
 
 For more information on this program and eligibility please contact your department’s personnel office.",https://calhr.benefitsprograms.info/state-employee/insurance/group-legal-services/
-Group Long-Term Disability Insurance (LTD)– Excluded Employees Only,Group Long-Term Disability Insurance (LTD)– Excluded Employees Only,"Group Long-Term Disability Insurance (LTD)– Excluded Employees Only
+,Group Long-Term Disability Insurance (LTD)– Excluded Employees Only,"Group Long-Term Disability Insurance (LTD)– Excluded Employees Only
 Group Long-Term Disability (LTD) is a voluntary insurance plan that is available to eligible excluded state employees only. This benefit replaces a portion of your income in the event you cannot work for six months or more due to a covered illness or injury. By protecting your income and helping you to meet your financial commitments in a time of need, this benefit can be key to maintaining your standard of living. Eligible excluded state employees can enroll online by visiting the Standard Insurance website and select the “Enroll Now” tab.
 
 Contact Information
@@ -868,7 +871,7 @@ Enroll Now: standard.benselect.com/Enroll
 For more information, contact LTD@calhr.ca.gov
 
 For more information on this program and eligibility please contact your department’s personnel office.",https://calhr.benefitsprograms.info/state-employee/insurance/group-long-term-disability/
-Child Care Resources,Child Care Resources,"Child Care Resources
+,Child Care Resources,"Child Care Resources
 ​​While the State of California does not provide child care benefits for employees, the following resources are provided to assist state employees in finding and paying for child care:
 
 Find a Child Care Center
@@ -881,27 +884,27 @@ Child care facility accreditation and state licensing requirements
 Evaluation of providers
 Backup and sick child care
 Resource and Referral County Listing:  Your local resource and referral agency can help you find child care options near your home or work.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/child-care-resources/
-Child Care Resources,Child Care Resources,"Tuition Assistance
+,Child Care Resources,"Tuition Assistance
 Dependent Care Reimbursement Accounts:  This program allows state employees to set aside money in a reimbursement account to pay for certain kinds of expenses.  You can increase your take home pay and decrease your taxable income.  You specify the amount you want deducted from your paycheck, and the deductions occur before tax withholding, reducing tax liability.
 Department of Social Services:  California offers several options to assist income-eligible families pay for child care.
 Tax Credits:  If you have child care expenses and pay federal and/or state income taxes, you may be eligible to receive assistance through the federal and state Child and Dependent Care Tax Credits, the Child Tax Credit for families with children, and the Earned Income Tax Credit for low-income families.  You may wish to consult a tax advisor.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/child-care-resources/
-Commute Programs,Commute Programs,"Commute Programs
+,Commute Programs,"Commute Programs
 For bargaining units with an existing Memorandum of Understanding (MOU), if the MOU contains commute program language that is in conflict with these policies, the MOU language shall be controlling.
 
 The Commute Programs provide bicycle, transit and vanpool incentives to all eligible state employees. The goal of the Commute Programs is to reduce the number of vehicles on the road by encouraging employees to explore and use alternate means of transportation to commute to and from work. Fewer vehicles on the road means an improvement in air quality and less traffic congestion.
 
 The state, as the employer, may establish and implement procedures and eligibility criteria for the administration of the benefits in the Commute Programs, including required receipts and certification of expenses. If you have specific questions about the Commute Programs, please contact your department’s personnel office for assistance.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/commute-programs/
-Commute Programs,Commute Programs,"Bicycle Commuter Program
+,Commute Programs,"Bicycle Commuter Program
 Effective May 1, 2018, any active state employee whose salary is paid directly by the State of California is eligible to participate in this program. Employee participation in the program is voluntary.
 
 The Bicycle Commuter Program (Program) is a taxable benefit administered by the California Department of Human Resources (CalHR). This benefit is voluntarily provided by the State of California and encourages active state employees (employees) to consider bicycle commuting as a means of active transportation to and from their residences and places of employment. The Program promotes health and wellness and sustainable commuting practices by encouraging employees to use bicycles as their primary means of commuting. The Program supports the California Department of Transportation’s “Toward an Active California State Bicycle and Pedestrian” plan to triple bicycling in the state between 2010 and 2020.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/commute-programs/bicycle-commuter-program/
-Commute Programs,Commute Programs,"Mass Transit and Vanpool Commute Program
+,Commute Programs,"Mass Transit and Vanpool Commute Program
 Mass Transit
 Employees working in areas served by mass transit, including rail, bus, or other commercial transportation licensed for public conveyance shall be eligible for a seventy-five percent (75%) discount on public transit passes sold by state agencies up to a maximum of sixty-five dollars ($65) per month. Employees who purchase public transit passes on their own shall be eligible for a seventy-five percent (75%) reimbursement up to a maximum of sixty-five dollars ($65) per month.
 
 Vanpools
 A vanpool is defined as a group of seven (7) or more people who commute together in a vehicle (state or non-state) specifically designed to carry an appropriate number of passengers. Employees riding in vanpools shall be eligible for a seventy-five percent (75%) reimbursement of the monthly fee up to a maximum of sixty-five dollars ($65) per month. In lieu of the vanpool rider reimbursement, the state shall provide one hundred dollars ($100) per month to each state employee who is the primary vanpool driver, meets the eligibility criteria, and complies with program procedures as developed by the state for primary vanpool drivers.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/commute-programs/mass-transit-and-vanpool-commute-program/
-Commute Programs,Commute Programs,"Bay Area Commuter Benefits Program
+,Commute Programs,"Bay Area Commuter Benefits Program
 Annual Registration Process for All Affected Agencies and Departments
 The Bay Area Commuter Be​nefits Program (Program) is administered by a partnership between the Metropolitan Transportation Commission and the Bay Area Air Quality Management District in accordance with Regulation 14, Rule 1: Bay Area Commuter Benefits Program. The Program began as a pilot program in 2014 and became permanent in 2016. It includes the nine San Francisco Bay Area counties (Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma). Agencies and departments with any worksites with any employees in these counties must comply with this Program.
 
@@ -923,7 +926,7 @@ While CalHR is not the administrator of this program, CalHR annually registers a
 Compiling and submitting the annual report data provided by the affected agencies and departments.
 Maintaining records in accordance with Program requirements based on the data submitted by these agencies and departments to document how and when employees were notified about their commuter benefits.
 State agencies and departments may contact travelmanager@calhr.ca.gov for additional clarification.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/commute-programs/bay-area-commuter-benefits/
-Employee Assistance Program,Employee Assistance Program,"Employee Assistance Program
+,Employee Assistance Program,"Employee Assistance Program
 As a State of California employee, you and your eligible dependents have access to an Employee Assistance program (EAP). This program is provided by the State of California as part of the state’s commitment to promoting employee health and well-being. It is offered at no charge to the employee and provides a valuable resource for support and information during difficult times, as well as consultation on day-to-day concerns. EAP is an assessment, short-term counseling, and referral service designed to provide you and your family with assistance in managing everyday concerns.
 
 EAP Contact Information
@@ -939,7 +942,7 @@ Website: www.eap.calhr.ca.gov
 If you need help, call the toll-free number at 866-327-4762 (TDD 800-424-6117).
 
 Customer service representatives are available 24 hours a day, 7 days a week, to discuss your concerns and ensure that you receive the assistance you need. You may also contact your departmental EAP coordinator.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/employee-assistance-program/
-Employee Engagement Program,Employee Engagement Program,"Employee Engagement Program
+,Employee Engagement Program,"Employee Engagement Program
 This program enhances employee engagement by empowering state employees through workplace activities and recognition initiatives. Programs include Californians Serving California, Public Service Recognition Week, and Employee Suggestion program.
 
 Benefits Campaign – Check out our new Benefits Campaign for 2023! Monthly articles posted on holistic well-being topics to share with your teams and departments.
@@ -955,9 +958,9 @@ Employee Suggestion Program – Have a great idea on how to enhance processes in
 Public Service Recognition Week (PSRW) – Celebrated annually the first week of May.
 
 Virtual Backgrounds – Enhance your virtual team meetings/gatherings with some creative backgrounds.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/employee-engagement/
-Employee Wellness Program,Employee Wellness Program,"Employee Wellness Program
+,Employee Wellness Program,"Employee Wellness Program
 The mission of the state Employee Wellness Program is to promote a work environment that encourages healthy lifestyle choices, decreases the risk of illness and disease, and enhances employee effectiveness and well-being. We encourage you to stay informed about health issues that affect you. Take steps to maintain o improve your health and use the resources on this website to help make your life a long and healthy one.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/employee-wellness-program/
-Employee Wellness Program,Employee Wellness Program,"Employee Wellness Program
+,Employee Wellness Program,"Employee Wellness Program
 General Information
 The mission of the state employee wellness program is to promote a work environment that encourages healthy lifestyle choices, decreases the risk of illness and disease, and enhances employee effectiveness and well-being.
 
@@ -994,7 +997,7 @@ Additional Information
 Contact your department wellness coordinator for more information about your worksite program.
 
 For more information about your health plan, please visit the CalPERS website.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/employee-wellness-program/
-Employee Wellness Program,Employee Wellness Program,"Healthier U Connections
+,Employee Wellness Program,"Healthier U Connections
 Why Healthier U
 Since state employees spend most of their waking hours at work, the State of California wants to create a workplace that promotes and sustains a culture of health to enhance the overall well-being of the state workforce so that employees are happy, healthy, and productive.
 
@@ -1018,13 +1021,13 @@ Each Healthier U program is unique to the department that is building it.
 It is not a one-size fit all.
 It is not a wellness program in a box.
 It is your wellness program designed by and for you.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/employee-wellness-program/
-Merit Award Program,Merit Award Program,"The State of California appreciates and recognizes your commitment to serve. The Merit Award Program is a set of employee benefits available year-round and is comprised of four awards:
+,Merit Award Program,"The State of California appreciates and recognizes your commitment to serve. The Merit Award Program is a set of employee benefits available year-round and is comprised of four awards:
 
 Governor's State Employee Medal of Valor Award
 Superior/Sustained Accomplishment Awards
 25-Year Service and Retirement Awards
 Robert L Negri Human Resources Achievement Award",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/merit-award-program/
-Merit Award Program,Merit Award Program,"Governor's State Employee Medal of Valor Award
+,Merit Award Program,"Governor's State Employee Medal of Valor Award
 The Governor’s State Employee Medal of Valor Award is the highest honor California bestows upon its employees who risked their lives to save others or state property. Since the program began in 1958, over 700 medals have been awarded to state employees in many different professions. There are two categories of awards:
 
 Special Act Award (Gold Medal)
@@ -1063,7 +1066,7 @@ To search for awardees by department, last name, first name, or year awarded, pl
 
 More Information
 For more information, please contact your departmental Merit Award Administrator or the CalHR Merit Award Program.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/merit-award-program/
-Merit Award Program,Merit Award Program,"Superior/Sustained Accomplishment Awards
+,Merit Award Program,"Superior/Sustained Accomplishment Awards
 The Superior Accomplishment Award and the Sustained Superior Accomplishment  Award are for a performance resulting in exceptional contribution to state government. Many state agencies hold an annual awards ceremony to acknowledge outstanding employees and increase employee engagement. Specific areas of accomplishment may include, but are not limited to:
 
 An outstanding and superior achievement.
@@ -1112,7 +1115,7 @@ STD-278 Nomination Form
 
 More Information
 For more information, please contact your departmental Merit Award Administrator or CalHR Merit Award Program.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/merit-award-program/
-Merit Award Program,Merit Award Program,"25-Year Service and Retirement Awards
+,Merit Award Program,"25-Year Service and Retirement Awards
 The 25-Year Service and Retirement Awards were established by the Legislature to recognize state employees who have completed 25-years or more of state service.
 
 Departments may purchase mementos for eligible employees directly from State Price Schedule service providers discussed below.
@@ -1162,7 +1165,7 @@ To access “Core” items, click on the “Core – 25 Years” and “Core –
 To access “Non-Core” items, click on the “Non-Core” links, Level 1 and Level 2 on the left of the page below the “Categories” heading.
 For questions or concerns:
 california@awardfulfillme​nt.com ​ ​|  ​​(909) 208-5506  ​|  (800) 718-8852​",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/merit-award-program/
-Merit Award Program,Merit Award Program,"Robert L Negri Human Resources Achievement Award
+,Merit Award Program,"Robert L Negri Human Resources Achievement Award
 The Robert L. Negri Human Resources Achievement Award is an annual award presented to an employee or organizational group of the State for outstanding performance and achievement in the field of human resources. We invite you to nominate deserving individuals or organizational groups for this prestigious award by completing the CalHR-601 Nomination Form and submitting to the CalHR’s Merit Award Program.
 
 Nomination Process
@@ -1178,13 +1181,13 @@ CalHR-601 Nomination Form
 
 More Information
 For more information, please contact your departmental Merit Award Administrator or CalHR Merit Award Program.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/merit-award-program/
-Third Party Pre-Tax Parking Reimbursement Account Program,Third Party Pre-Tax Parking Reimbursement Account Program,"Third Party Pre-Tax Parking Reimbursement Account Program
+,Third Party Pre-Tax Parking Reimbursement Account Program,"Third Party Pre-Tax Parking Reimbursement Account Program
 The Third Party Pre-Tax Parking Reimbursement Account Program is a voluntary payroll deduction program that allows you to deduct a specific dollar amount for work-related parking fees from your pay warrant prior to tax deductions; this reduces your taxable income. The funds taken out of your pay warrant go into a special reimbursement account that you will claim against. To receive payments from your account, you must submit a reimbursement claim form (CalHR 681) along with the required parking receipts. To enroll in this program you must submit the account enrollment form (CalHR 682).
 
 For questions concerning the status of a claim or your account balance, please contact the third party vendor Application Software, Inc. (ASI) at (800) 659-3035 or visit the ASI website.
 
 For more information on this program or eligibility, please contact your department’s personnel office.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/third-party-pre-tax-parking-reimbursement-account-program/
-Travel Reimbursements,Travel Reimbursements,"Travel Reimbursements
+,Travel Reimbursements,"Travel Reimbursements
 For bargaining units with an existing Memorandum of Understanding (MOU), if the MOU contains travel language that is in conflict with this language, the MOU language shall be controlling.​​​​​​​​​
 
 Exempt, excluded, and represented state employees may be eligible for the reimbursement of authorized out-of-pocket expenses that are reasonably, actually, and necessarily incurred as a result of conducting state business. In accordance with current state policy, employees may be eligible to receive reimbursement for expenses such as:
@@ -1197,7 +1200,7 @@ Out-of-country travel
 Personal vehicle mileage
 Other actual and necessary business and/or travel costs incurred while conducting official state business
 For more information, please contact your department’s personnel office.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/travel-reimbursements/
-Meal and Incidental Rates,Meal and Incidental Rates,"Meal and Incidental Rates
+,Meal and Incidental Rates,"Meal and Incidental Rates
 The following reimbursement rates for meals and incidentals are maximums, not allowances.  In the event of an audit, employees must be able to produce receipts substantiating the amount claimed.
 
 HR Manual section 2203 – Allowances and Travel Reimbursements provides additional information, including travel timeframes (fractional day of travel, trip of less than 24 hours, trip of more than 24 hours, etc.).
@@ -1208,7 +1211,7 @@ Meal and Incidental Rates
 ​Lunch	​Up to $11.00
 ​Dinner	​Up to $23.00
 ​Incidentals	​Up to $5.00",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/travel-reimbursements/
-Personal Vehicle Mileage Reimbursement Rates,Personal Vehicle Mileage Reimbursement Rates,"Personal Vehicle Mileage Reimbursement Rates
+,Personal Vehicle Mileage Reimbursement Rates,"Personal Vehicle Mileage Reimbursement Rates
 HR Manual section 2202 – Mileage Reimbursement provides additional information, including the following policies: personal vehicle mileage reimbursement, private aircraft mileage reimbursement, and receipts.
 
 Employees must have advance approval to drive a personal vehicle on state business.
@@ -1238,14 +1241,14 @@ The cost of maintenance (oil, lube, routine maintenance)
 Insurance (liability, damage, comprehensive and collision coverage)
 Licensing and registration
 Depreciation and all other costs associated with operation of the vehicle",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/travel-reimbursements/
-Short-Term Lodging Reimbursement Rates,Short-Term Lodging Reimbursement Rates,"Short-Term Lodging Reimbursement Rates
+,Short-Term Lodging Reimbursement Rates,"Short-Term Lodging Reimbursement Rates
 ​HR Manual sections 2201 – Travel and Relocation Policy and 2203 – Allowances and Travel Reimbursements provide additional travel policy information, including lodging reimbursement policy and the excess lodging request approval process.
 
 Employees who incur approved overnight lodging expenses may be reimbursed.
 Employees must stay at a commercial lodging establishment catering to short-term travelers, such as a hotel, motel, bed and breakfast, public campground, etc.
 Employees must provide a receipt to claim reimbursement; no reimbursement will be paid without a receipt.
 Should the base room rate exceed the rates noted below, an  Excess Lodging Rate Approval Request (STD 255C) must be submitted and approved by your department and/or CalHR before the trip takes place.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/travel-reimbursements/
-Workers’ Compensation,Workers’ Compensation,"Workers’ Compensation
+,Workers’ Compensation,"Workers’ Compensation
 Workers’ compensation benefits are designed to provide you with the medical treatment you need to recover from your work related injury or illness, partially replace the wages you lose while you are recovering, and help you return to work.
 
 If you are an employee of the State of California and have questions about workers’ compensation as it relates to an injury or illness that was or may have been caused by your job, please contact your department’s personnel office.
@@ -1258,13 +1261,13 @@ Resources
 State Compensation Insurance Fund
 The Division of Workers’ Compensation at the Department of Industrial Relations
 For more information on this program and eligibility please contact your department’s personnel office.",https://calhr.benefitsprograms.info/state-employee/work-engagement-resources/workers-compensation/
-Retirement,Retirement,"Retirement
+,Retirement,"Retirement
 Whether you are already retired or you have just started thinking about retirement, the state provides benefits to help you feel secure in your future.
 
 Retirement benefits for state employees are administered by the California Public Employees Retirement System (CalPERS). For more information, please visit the CalPERS website. 
 
 In addition, retirement savings accounts, such as 401(k) and 457(b), are available to most State of California employees; these accounts are administered by Savings Plus. For more information on building retirement savings accounts, please visit the Savings Plus website.",https://calhr.benefitsprograms.info/state-employee/retirement/
-Voluntary Benefits,Voluntary Benefits,"Voluntary Benefits
+,Voluntary Benefits,"Voluntary Benefits
 The following voluntary benefits are available for state employees, including group legal services insurance, long term disability and life insurance. Please visit the following sites for more information.
 
 ARAG logo
@@ -1278,7 +1281,7 @@ Saving Plus logo
 Savings Plus is a voluntary retirement program that allows California State employees, including active PST employees, to supplement their retirement benefits through pre-tax and Roth (after-tax) payroll contributions. Savings Plus offers the 401(k) and 457(b) Plans. Representatives can provide information about the differences between the plans, investment options, enrolling, lump sum contributions, and ways to help achieve financial goals.
 
 Visit our website www.savingsplusnow.com for more information.",https://calhr.benefitsprograms.info/state-employee/voluntary-benefits/
-Dependent Re-Verification,Dependent Re-Verification,"Dependent Re-Verification
+,Dependent Re-Verification,"Dependent Re-Verification
 Introduction
 The Dependent Re-Verification (DRV) is the process of re-verifying the eligibility of spouses, domestic partners, children, stepchildren, and domestic partner children (family members) for their continued enrollment for state health, dental and premier vision benefits. Government Code section 19815.9 mandates re-verifying the eligibility of these family members. Government Code section 22959 authorizes extending this review to family members enrolled in dental benefits.  The bargaining unit contracts specify that family member eligibility for dental benefits shall be the same as that prescribed for health benefits.
 
@@ -1292,35 +1295,29 @@ Resources
 DRV Guide for State Employees
 DRV FAQ
 DRV COVID FAQ",https://calhr.benefitsprograms.info/state-employee/dependent-re-verification/
-The Dependent Re-Verification (DRV) Program,The Dependent Re-Verification (DRV) Program,"The Dependent Re-Verification (DRV) Program.
+,The Dependent Re-Verification (DRV) Program,"The Dependent Re-Verification (DRV) Program.
 The DRV program was implemented as a cost mitigation strategy for state departments effective in 2018. In an effort to control rising health care costs, CalPERS conducted a Dependent Eligibility Verification (DEV) of its membership during fiscal year 2013-14 utilizing a vendor. The DEV required departmental personnel offices to verify the eligibility of employee dependents for continued enrollment in state-sponsored health benefits. The DEV efforts resulted in cancellations of 8,379 ineligible dependents enrolled in health and resulted in a savings of over $60 million by reducing future claims and employer contribution costs.
 The success of the DEV led to the adoption of Senate Bill 98, Chapter 28, Statutes of 2015, adding Government Code (GC) Section 22843.1 to the Public Employees’ Medical & Hospital Care Act (PEMHCA). GC 22843.1 implemented a permanent DRV process for departmental personnel offices, requiring departments to verify the continued eligibility of employee dependents for state-sponsored health benefits on a triennial basis and mandated CalHR to set the standards. On July 16, 2021, Assembly Bill 138, Chapter 78, Statutes of 2021, was signed into law, and the DRV authority was removed from PEMHCA and added to CalHR GC 19815.9. Authority was given to CalHR to set the Dependent Re-verification (DRV) standards
 pursuant to GC 19815.9. In addition, Title 2, Section 599.855 of the California Code of Regulations clarifies and makes specific the above-mentioned statute for application by state departments.",https://calhr.benefitsprograms.info/wp-content/uploads/2022/12/DRV-Guide-State-Employees-CalHR-Benefits-Division-website-January-2023-Clean-Copy-12282022.pdf
-"DRV FAQ’s for Employees during
-the Novel Coronavirus (COVID-19)
-State of Emergency","DRV FAQ’s for Employees during
+,"DRV FAQ’s for Employees during
 the Novel Coronavirus (COVID-19)
 State of Emergency","Will Dependent Re-verification be postponed due to the current State of Emergency?
 The current Dependent Re-verification schedule will continue. If you are subject to Dependent Re-verification, you are responsible for providing the re-verification documents and a completed Dependent Eligibility Verification Checklist (CalHR Form 781) to your departmental personnel office prior to the re-verification due date.",https://calhr.benefitsprograms.info/wp-content/uploads/2022/12/DRV-EE-COVID-FAQ-January-2023.pdf
-"DRV FAQ’s for Employees during
-the Novel Coronavirus (COVID-19)
-State of Emergency","DRV FAQ’s for Employees during
+,"DRV FAQ’s for Employees during
 the Novel Coronavirus (COVID-19)
 State of Emergency","My departmental personnel office has restricted its office hours due to the novel coronavirus (COVID-19) and I am unable to get in touch with my personnel specialist to turn in re-verification documents for my enrolled dependents. Who can I contact to process my forms?
 Due to the novel coronavirus (COVID-19), protective measures have been put in place to ensure the health and safety of all state employees. Please review the current communication from your departmental personnel office on how to communicate with them during this time and follow the process. If you have followed the process and are still unable to submit the required re-verification documents to your departmental personnel office, please have your supervisor or manager escalate the issue to your departmental personnel officer",https://calhr.benefitsprograms.info/wp-content/uploads/2022/12/DRV-EE-COVID-FAQ-January-2023.pdf
-"DRV FAQ’s for Employees during
-the Novel Coronavirus (COVID-19)
-State of Emergency","DRV FAQ’s for Employees during
+,"DRV FAQ’s for Employees during
 the Novel Coronavirus (COVID-19)
 State of Emergency","I am unable to obtain a certified copy of my government issued marriage certificate/domestic partnership registration and/or child's birth due to the current State of Emergency. Will my family member(s) lose health and/or dental coverage if I am unable to provide the required reverification documents by the re-verification due date?
 Re-verification of your dependents requires submittal of the CalHR 781 and reverification documents pursuant to Government Code section 19815.9, 22959 and Title 2. California Code of Regulation (CCR) § 599.855. Ninety, 60- and 30-day notices are sent to you to ensure you have plenty of time to provide the necessary documents to reverify your dependents. If you do not provide the necessary documents, your dependents will lose their health, dental and/or premier vision coverage. Contact your departmental personnel office for further guidance. ",https://calhr.benefitsprograms.info/wp-content/uploads/2022/12/DRV-EE-COVID-FAQ-January-2023.pdf
-CalHR Benefits Calculator,CalHR Benefits Calculator,"CalHR Benefits Calculator
+,CalHR Benefits Calculator,"CalHR Benefits Calculator
 Click HERE for instructions* on how to use the Benefits Calculator.
 
 *NOTE: This demonstration walks through how to utilize the Benefits Calculator, a tool to assist employees in calculating out-of-pocket costs for health, dental and vision benefits. The selections used in this demonstration are for example purposes only and you should select the options that pertain to your specific needs.
 
 Use the Benefits Calculator to compare premiums for different benefit plans and see the contribution rates based on your bargaining unit. In addition, you will see how much will be deducted from or added to your paycheck based on which benefit plan you choose.",https://calhr.benefitsprograms.info/calhr-benefits-calculator/
-Retiree Dental Benefits,Retiree Dental Benefits,"Retiree Dental Benefits
+,Retiree Dental Benefits,"Retiree Dental Benefits
 California Public Employees’ Retirement System (CalPERS) maintains the dental benefit enrollment records for all state retirees, processes retirees’ dental enrollments, and submits eligibility information to the appropriate dental plan.
 
 It is important that you maintain your address current to help ensure you receive timely information about your sponsored dental benefits. Report address changes to CalPERS at the address below (be sure to include your MyCalPERS ID and telephone number):
@@ -1341,7 +1338,7 @@ Affidavit of Parent-Child Relationship – CalHR 025
 
 Important Reminders
 If you have dependents 25 years of age and under, they are eligible for dependent coverage with the Retiree Dental and Vision Programs.",https://calhr.benefitsprograms.info/state-retiree/retiree-dental-benefits/
-Open Enrollment,Open Enrollment,"Open Enrollment
+,Open Enrollment,"Open Enrollment
 The Benefits Open enrollment is a set time of the year when eligible state employees can enroll, disenroll or make changes to their health, dental, vision, COBRA, and legal insurance benefit plans. Employees can also add or delete eligible dependents.
 
 For successful delivery of these efforts, the Benefits Division established an Annual Open Enrollment Project, with the goal to provide state departments with necessary benefit program and plan information to share with their employees.
@@ -1361,7 +1358,7 @@ The CalHR Open Enrollment Team is happy to announce the return of In-Person Bene
 
 On Sept. 6 and Sept. 21, 2023, CalHR has partnered with the Department of Motor Vehicles (DMV) and Department of State Hospitals – Metropolitan to host In-Person Benefit Fairs for state employees. During the in-person fairs, state employees can communicate directly with benefit vendors to discover their options and get answers they need to prepare for important decisions about their CalPERS health plans, and CalHR dental, vision and voluntary benefit plans. Attend the in-person fairs at one of the locations and times listed below:
 ",https://calhr.benefitsprograms.info/open-enrollment/
-Open Enrollment,Open Enrollment,"The CalHR Open Enrollment Team is happy to announce the return of In-Person Benefit Fairs.
+,Open Enrollment,"The CalHR Open Enrollment Team is happy to announce the return of In-Person Benefit Fairs.
 
 On Sept. 6 and Sept. 21, 2023, CalHR has partnered with the Department of Motor Vehicles (DMV) and Department of State Hospitals – Metropolitan to host In-Person Benefit Fairs for state employees. During the in-person fairs, state employees can communicate directly with benefit vendors to discover their options and get answers they need to prepare for important decisions about their CalPERS health plans, and CalHR dental, vision and voluntary benefit plans. Attend the in-person fairs at one of the locations and times listed below:
 
@@ -1389,8 +1386,8 @@ Norwalk, CA 90650
 
 Parking: The event will be held in the James Hall Auditorium. Please use the parking lot that is adjacent to James Hall Auditorium.
 ",https://calhr.benefitsprograms.info/open-enrollment/
-Open Enrollment,Open Enrollment,"The CalHR Benefits Team is happy to announce virtual Brown Bag Sessions for HR Professionals to provide an opportunity to ask questions to improve guidance and support for their department employees. For more information and to attend a virtual Brown bag Session, please visit the State HR Professionals webpage. The HR Professionals Open Enrollment Resource page is password protected. If you are an HR Professional and you are seeking access to the HR Professionals webpage, please contact OpenEnrollment@calhr.ca.gov",https://calhr.benefitsprograms.info/open-enrollment/
-Open Enrollment,Open Enrollment,"Welcome to Open Enrollment!
+,Open Enrollment,"The CalHR Benefits Team is happy to announce virtual Brown Bag Sessions for HR Professionals to provide an opportunity to ask questions to improve guidance and support for their department employees. For more information and to attend a virtual Brown bag Session, please visit the State HR Professionals webpage. The HR Professionals Open Enrollment Resource page is password protected. If you are an HR Professional and you are seeking access to the HR Professionals webpage, please contact OpenEnrollment@calhr.ca.gov",https://calhr.benefitsprograms.info/open-enrollment/
+,Open Enrollment,"Welcome to Open Enrollment!
 It’s time for the Open Enrollment season to kick off. Visit the
 CalHR Beneits website to and information on upcoming events,
 such as the Virtual Benefits Fair and in-person benefits fairs, as
@@ -1419,9 +1416,9 @@ the chance to access resources about health, dental, vision and
 voluntary benefits in person as well as speak with benefit plan
 representatives to help make informed choices.
 Please direct Open Enrollment questions to OpenEnrollment@calhr.ca.gov ",https://calhr.benefitsprograms.info/wp-content/uploads/2023/08/OE-SVD-Flyer.pdf
-Open Enrollment,Open Enrollment,"2023 Open Enrollment
+,Open Enrollment,"2023 Open Enrollment
 Sept. 18 - Oct. 13",https://calhr.benefitsprograms.info/wp-content/uploads/2023/08/2023-Open-Enrollment-Poster.pdf
-2023 Open Enrollment Employee Announcement,2023 Open Enrollment Employee Announcement,"Open Enrollment Starts Sept. 18 and Ends Oct. 13, 2023
+,2023 Open Enrollment Employee Announcement,"Open Enrollment Starts Sept. 18 and Ends Oct. 13, 2023
 The annual Open Enrollment period for health, dental, vision, FlexElect Reimbursement Accounts, legal insurance, cash options, Consolidated Omnibus Budget Reconciliation Act (COBRA) and long-term disability (LTD) starts Sept. 18 and ends Oct. 13, 2023. This publication provides you information about this year’s Open Enrollment and highlights benefit plan changes for 2024. Please take a moment to read this information carefully.
 
 During Open Enrollment, you may:
@@ -1442,15 +1439,15 @@ Permanent-intermittent employees who want to continue receiving the cash option 
 All Open Enrollment actions will be effective Jan. 1, 2024.
 
 For eligibility information please contact your departmental personnel office.",https://calhr.benefitsprograms.info/open-enrollment-annoucement/
-2024 Open Enrollment Employee Announcement,2024 Open Enrollment Employee Announcement,"WHAT IS CHANGING FOR 2024?
+,2024 Open Enrollment Employee Announcement,"WHAT IS CHANGING FOR 2024?
 There are premium rate changes for the CalPERS health plans. If you would like to make changes to your health plan, you must do so during Open Enrollment or when you have a qualifying event. Please visit the CalPERS website for the 2024 health plans and premiums. The 2024 CoBen Allowances and Employer Health Benefit Contributions by Bargaining Unit are available on the CalHR Benefits website.",https://calhr.benefitsprograms.info/open-enrollment-annoucement/
-2025 Open Enrollment Employee Announcement,2025 Open Enrollment Employee Announcement,"IMPORTANT OPEN ENROLLMENT REMINDERS
+,2025 Open Enrollment Employee Announcement,"IMPORTANT OPEN ENROLLMENT REMINDERS
 Health coverage offered by the state meets the Affordable Care Act’s affordability and minimum value standards. If you are an employee who is eligible for state-sponsored health benefits, then you may not be eligible for a premium tax credit toward the purchase of individual health coverage through Covered California.
 
 If you are eligible for health benefits but are not currently enrolled, or you are receiving cash in lieu of state-sponsored health coverage, you may enroll in health benefits during Open Enrollment.
 
 If you have children, they are eligible for dependent coverage for health, dental, and vision plans up to the age of 26. Please check your health, dental and vision coverage enrollments through your departmental personnel office and ensure that only eligible dependents are enrolled.",https://calhr.benefitsprograms.info/open-enrollment-annoucement/
-Open Enrollment Deadlines,Open Enrollment Deadlines,"Open Enrollment Deadlines
+,Open Enrollment Deadlines,"Open Enrollment Deadlines
 The last day to enroll or make changes to health, dental, vision, reimbursement accounts, cash options, group legal and LTD is Oct. 13, 2023.
 
 Enrollments and changes made by mail must be postmarked by Oct. 13, 2023.
@@ -1461,7 +1458,7 @@ If you enroll or are automatically re-enrolled in a cash option, your last day t
 
 For More Information
 Additional benefit plan and program information, handbooks and enrollment/change forms can be found on the CalHR Benefits website. For questions regarding the 2023 Open Enrollment period or eligibility, please contact your departmental personnel office.",https://calhr.benefitsprograms.info/open-enrollment-annoucement/
-Retiree Vision Benefits,Retiree Vision Benefits,"Retiree Vision Benefits
+,Retiree Vision Benefits,"Retiree Vision Benefits
 As a State of California retiree, you are eligible to enroll in the state’s Retiree Vision Program, which is offered through VSP Vision. The Retiree Vision Program provides vision care coverage for you and your eligible dependents.
 
 You have 60 days from the date of your retirement to enroll in a Retiree Vision Plan. Please work with your departmental personnel to assist you with enrollment options and check your eligibility. If you do not enroll within 60 days of your retirement date, your next opportunity to enroll in the Retire Vision Program will be the yearly open enrollment.
@@ -1480,18 +1477,18 @@ Sacramento, CA 94229-2715
 For updates to your VSP membership profile, please report address changes to VSP by calling the Customer Care at (800) 400-4569. Let them know you are a State of California Retiree and need to update your membership profile information.
 
 If you are a retired state employee and have any questions regarding your eligibility, please contact VSP Customer Care at (800) 400-4569 or email stateofca@vsp.com.",https://calhr.benefitsprograms.info/state-retiree/retiree-vision-benefits/
-Retiree Group Legal Insurance Plan,Retiree Group Legal Insurance Plan,"Retiree Group Legal Insurance Plan
+,Retiree Group Legal Insurance Plan,"Retiree Group Legal Insurance Plan
 The state offers a Retiree Group Legal Services Insurance Plan to all eligible employees who retire from state service, and current retirees and annuitants. The Plan is an important part of the state’s benefits package because it connects you with network attorneys and other legal resources to help you resolve life’s legal issues. As a member of the state’s Retiree Group Legal Services Insurance Plan, you can face your problems with more confidence using the resources and services available to you.",https://calhr.benefitsprograms.info/state-retiree/retiree-group-legal-insurance-plan/
-Retiree Life Insurance,Retiree Life Insurance,"Excluded employees can continue their basic life insurance and if you have supplemental into retirement. If an excluded employee has supplemental life insurance  and transfers to Rank and File, they can continue into their life insurance retirement as well. For questions regarding your retiree basic life insurance call MetLife at 1-800-252-8524.
+,Retiree Life Insurance,"Excluded employees can continue their basic life insurance and if you have supplemental into retirement. If an excluded employee has supplemental life insurance  and transfers to Rank and File, they can continue into their life insurance retirement as well. For questions regarding your retiree basic life insurance call MetLife at 1-800-252-8524.
 
 For Rank and File employees, if you purchased life insurance from your union and have a union sponsored life insurance, contact your union.",https://calhr.benefitsprograms.info/state-retiree/retiree-life-insurance/
-State Retiree Open Enrollment Resources,State Retiree Open Enrollment Resources,"Retiree Open Enrollment Resources
+,State Retiree Open Enrollment Resources,"Retiree Open Enrollment Resources
 2023 Retiree News Release
 Retiree Dental Plan Enrollment Form
 2023 Dental Retiree Handbook
 2024 Dental Retiree Handbook",https://calhr.benefitsprograms.info/state-retiree/open-enrollment-resources/
-Retiree Dental Plan Enrollment - Change Request,Retiree Dental Plan Enrollment - Change Request,Retiree Dental Plan Enrollment - Change Request Form,https://calhr.benefitsprograms.info/wp-content/uploads/2022/08/calhr-686.pdf
-Dental Handbook – Retired Employees,Dental Handbook – Retired Employees,"The California Department of Human Resources (CalHR) prepared this dental benefits
+,Retiree Dental Plan Enrollment - Change Request,Retiree Dental Plan Enrollment - Change Request Form,https://calhr.benefitsprograms.info/wp-content/uploads/2022/08/calhr-686.pdf
+,Dental Handbook – Retired Employees,"The California Department of Human Resources (CalHR) prepared this dental benefits
 handbook to provide general information regarding state-sponsored dental coverage for
 State of California retirees and their eligible dependents.
 Information in this handbook is supplied solely to provide general information regarding
@@ -1506,7 +1503,7 @@ retirees, and their dependents. CalHR is also responsible for communicating poli
 procedures regarding dental eligibility and enrollment, coordinating dental Open Enrollment
 periods, and providing information, guidance, and training to the departmental personnel
 offices on issues relating to the state’s dental program.",https://calhr.benefitsprograms.info/wp-content/uploads/2023/08/FINAL_2024-Dental-Retiree-Handbook.pdf
-Open Enrollment Virtual Benefits Fair,Open Enrollment Virtual Benefits Fair,"Open Enrollment Virtual Benefits Fair
+,Open Enrollment Virtual Benefits Fair,"Open Enrollment Virtual Benefits Fair
 ​Welcome to the 2023 Open Enrollment Season
 
 The 2023 Virtual Benefits Fair has concluded, but we have benefit resources available for you! Included as a resource are the Benefit Program Vendor and Health Carrier On-Demand webinars that will now be available year-round. For additional benefits information, please view Benefit Program Vendor and Health Carrier websites.
